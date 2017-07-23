@@ -1,0 +1,23 @@
+{
+  "name": "node-todo-api",
+  "version": "1.0.0",
+  "description": "API for node.js todo application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valikobird/node-todo-api.git"
+  },
+  "author": "Valentyn Zozulia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valikobird/node-todo-api/issues"
+  },
+  "homepage": "https://github.com/valikobird/node-todo-api#readme",
+  "dependencies": {
+    "mongodb": "^2.2.30",
+    "mongoose": "^4.11.3"
+  }
+}
